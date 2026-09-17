@@ -1,0 +1,12 @@
+{
+  "batch_name": "示例批次",
+  "mode": "standard",
+  "amount_strategy": "keep",
+  "amount_scale_factor": null,
+  "forbidden_terms": [
+    "待检索的原项目名称",
+    "待检索的原单位名称"
+  ],
+  "allowed_exceptions": [],
+  "notes": "禁止残留词表和金额映射应保存在受控位置，不要与对外文件一起发送。"
+}
